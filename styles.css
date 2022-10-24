@@ -1,0 +1,38 @@
+.hero {
+    color: #fcf9fe;
+}
+
+body {
+    background-color: #1a173d;
+    margin: 0px;
+}
+
+.container {
+    position: relative;
+    width: 80%;
+    height: 400px;
+}
+
+.child {
+    left: 35%;
+    top: 20%;
+    margin-left: -130px;
+    /* Metade do valor da Largura */
+    margin-top: -40px;
+    /* Metade da valor da Altura */
+    position: absolute;
+    width: 1000px;
+    /* Valor da Largura */
+    height: 200px;
+    /* Valor da Altura */
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.child > h2 {
+    font-size: 30px;
+    left: 55%;
+    top: 20%;
+    padding-left: 100px;
+}
