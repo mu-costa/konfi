@@ -17,8 +17,8 @@ Javascript
 
 Contributors names and contact info
 
-# Murilo Costa 
-# Gilberto Jesus
+Murilo Costa </n>
+Gilberto Jesus
 
 
 ## License
