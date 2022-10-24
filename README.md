@@ -1,5 +1,26 @@
-# Simple project made in HTML5, CSS3 and Javascript
-# 
-#
-# Developers: Murilo Costa 
-              <h2>Gilberto Jesus</h2>
+# Project Title
+
+Konfi
+
+## Description
+
+Simple project to delivery in a student's work.
+
+## Getting Started
+
+### Technologies
+HTML5
+CSS3
+Javascript
+
+## Authors
+
+Contributors names and contact info
+
+Murilo Costa 
+Gilberto Jesus
+
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
